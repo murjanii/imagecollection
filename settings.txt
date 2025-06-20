@@ -1,0 +1,4 @@
+root: "D:\6th sem\impact training\imageshop" 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none

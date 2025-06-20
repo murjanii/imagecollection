@@ -1,0 +1,67 @@
+.popular-section {
+  padding: 40px 20px;
+  background-color: #fff;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Top black box */
+.why-box {
+  background-color: #000;
+  color: #fff;
+  padding: 30px;
+  border-radius: 25px;
+  max-width: 2000px;
+  margin: 0 auto 40px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+ 
+}
+
+.why-box h2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.why-box p {
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+.know-more {
+  color: #fff;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+/* Button grid */
+.search-grid h3 {
+  text-align: center;
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+.search-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+  max-width: 2100px;
+  margin: 0 auto;
+}
+
+.category-btn {
+  padding: 12px 28px;
+  border: 2px solid #999;
+  border-radius: 40px;
+  font-size: 16px;
+  font-weight: 600;
+  background: white;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.category-btn:hover {
+  background: #000;
+  color: #fff;
+  border-color: #000;
+}

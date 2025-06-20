@@ -1,0 +1,31 @@
+.hero {
+  position: relative;
+  text-align: left;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.hero-image {
+  width: 100%;
+  height: auto;
+  max-height: 400px;
+  object-fit: cover;
+}
+
+.hero-text {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index: 2;
+}
+
+.explore-btn {
+  background-color: #00AEEF;
+  color: black;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-top: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
